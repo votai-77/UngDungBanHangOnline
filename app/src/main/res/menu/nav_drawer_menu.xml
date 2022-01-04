@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/QuanLyDonHang"
+        android:icon="@drawable/ic_baseline_bookmarks_24"
+        android:title="Quản Lý Đơn Hàng" />
+    <item
+        android:id="@+id/QuanLyKhachHang"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+        android:title="Quản Lý Khách Hàng" />
+    <item
+        android:id="@+id/DanhSachDen"
+        android:icon="@drawable/ic_baseline_block_24"
+        android:title="Danh Sách Đen" />
+    <item
+        android:id="@+id/MyProfile"
+        android:icon="@drawable/ic_baseline_block_24"
+        android:title="Thông tin của tôi" />
+
+    <item android:title="Bảo mật">
+        <menu>
+            <item
+                android:id="@+id/DoiMatKhau"
+                android:icon="@drawable/ic_baseline_vpn_key_24"
+                android:title="Đổi Mật Khẩu" />
+            <item
+                android:id="@+id/DangXuat"
+                android:icon="@drawable/ic_baseline_reply_all_24"
+                android:title="Đăng Xuất" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">UngDungBanHangOnline</string>
+    <string name="ManHinhDangNhap">Đăng Nhập</string>
+    <string name="ManHinhDangKi">Đăng Kí</string>
+    <string name="BottomNavigation">Màn Hình Chính</string>
+
+    <!--    Đăng nhập-->
+    <string name="txtusename">Username</string>
+    <string name="txtpassword">Password</string>
+    <string name="txttitledangnhap">Đăng Nhập</string>
+    <string name="btndangnhap">Đăng Nhập</string>
+    <!--    Đăng kí-->
+    <string name="btnDangKi">Đăng Kí</string>
+    <string name="edttentaikhoan">Nhập tên tài khoản</string>
+    <string name="edthovaten">Nhập họ và tên</string>
+    <string name="edtsodienthoai">Nhập số điện thoại</string>
+    <string name="edtdiachi">Nhập địa chỉ</string>
+    <string name="edtmatkhau">Nhập mật khẩu</string>
+    <string name="edtnhaplaimatkhau">Nhập lại mật khẩu</string>
+    <string name="edtemail">Nhập email</string>
+    <string name="btnTieptuc">Tiếp tục</string>
+    <string name="btnHuy">Hủy</string>
+
+    <!--Home-->
+    <string name="txttittlehome">E-SHOP</string>
+    <string name="edtsearch">search</string>
+    <string name="txttensanpham">Tên sản phẩm</string>
+    <string name="btnchitietsanpham">Chi tiết sản phẩm</string>
+    <string name="txttrangchu">Trang chủ</string>
+    <string name="txtdanhmuc">Danh mục</string>
+    <string name="txttimkiem">Tìm kiếm</string>
+    <string name="txtthongbao">Thông báo</string>
+    <string name="txttaikhoan">Tài khoản</string>
+
+    <!--    Drawer Navigation Menu-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+
+</resources>

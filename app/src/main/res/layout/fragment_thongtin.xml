@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/myprofile_image_avatar"
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+        android:src="@drawable/giay" />
+
+    <EditText
+        android:id="@+id/myprofile_fullname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Mời bạn nhập thông tin" />
+
+    <EditText
+        android:id="@+id/myprofile_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:hint="Mời bạn nhập email" />
+
+    <Button
+        android:id="@+id/btn_myprofile_capnhat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cập nhật "
+        android:background="#E14646"/>
+</LinearLayout>

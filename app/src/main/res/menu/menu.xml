@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Quaylai"
+        android:icon="@drawable/ic_baseline_arrow_back_24"
+        android:title="QuayLai"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/GioHanh"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Giờ Hàng"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_DangNhap"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:title="Đăng Nhập"
+        app:showAsAction="ifRoom" />
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420676527989",
+    "project_id": "banhangonline-49584",
+    "storage_bucket": "banhangonline-49584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420676527989:android:9cf8f5fccae7e8ae99953c",
+        "android_client_info": {
+          "package_name": "com.vothanhtai.ungdungbanhangonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420676527989-k4qn5orpu99gga9sbb0maukc98ru8osn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgRDlXPfg9-dupAewIAmOplZsCI7EN2Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420676527989-k4qn5orpu99gga9sbb0maukc98ru8osn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

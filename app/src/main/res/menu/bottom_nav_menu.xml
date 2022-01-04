@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        android:checked="true"/>
+
+    <item
+        android:id="@+id/DanhMuc"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="Danh mục" />
+
+    <item
+        android:id="@+id/TimKiem"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Tìm kiếm" />
+
+    <item
+        android:id="@+id/Thongbao"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Thông báo" />
+
+    <item
+        android:id="@+id/TaiKhoan"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Tài khoản" />
+</menu>
